@@ -1,0 +1,20 @@
+practical 1 :- print hello world in python
+print("Hello world")
+
+practical 2 :- sum of two num
+a=5
+b=90
+c= a+b
+print(c)
+
+practical 3 :- product of two num
+a=55
+b=90
+c= a*b
+print(c)
+
+practical 4 :- division of two num
+a=666
+b=5567865
+c= a/b
+print(c)
